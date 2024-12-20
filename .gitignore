@@ -139,4 +139,4 @@ celerybeat-schedule
 *.sublime-project
 
 #  other 
-videos/
+videos/*
